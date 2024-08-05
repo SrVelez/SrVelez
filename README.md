@@ -10,12 +10,10 @@ Estou constantemente atualizando e melhorando os projetos que estão em andament
 <div style="display: inline_block"><br>
   <img align="center" alt="vel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="vel-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C#/C#-original.svg">
   <img align="center" alt="vel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br/>
 
-* C#
 * Javascript e Typescript
 * MySql
 * HTML/CSS
